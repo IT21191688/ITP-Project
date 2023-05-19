@@ -1,0 +1,207 @@
+.out {
+    padding-left: 50px;
+    
+  }
+  
+  .card {
+    background-color: rgb(251, 253, 253);
+    color: rgb(0, 0, 0);
+    border-radius: 10%;
+    margin: 5em auto;
+    /*opacity: 0.8;*/
+    width: 100%;
+    align-content: center;
+    padding: auto;
+
+    
+    
+  }
+  
+  .card1 {
+    background-color: rgb(242, 245, 245);
+    color: rgb(0, 0, 0);
+    border-radius: 10%;
+    margin-left: 25%;
+    opacity: 0.8;
+    width: max-content;
+  }
+  
+  .logo{
+    width: 50%;
+    height: auto;
+    
+  }
+  
+  .title{ 
+    color: #2F4FAA;
+  }
+  
+  .subtitle{
+    color: #2F4FAA;
+  }
+  
+  .subtitle1{
+    text-decoration: underline;
+    color: #2F4FAA;
+  }
+  
+  .text{
+    color: rgb(131, 129, 127);
+    
+  }
+  .text1{
+    color: rgb(131, 129, 127);
+    
+  }
+  
+  .text3{
+    
+    color: #2F4FAA;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .text4{
+    color: rgb(247, 98, 98);
+   
+  }
+  .text5{
+    color: #2F4FAA;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 10px 10px 80px;
+  }
+  
+  
+  .form {
+    background-color: rgb(247, 247, 247);
+    color: rgb(15, 15, 15);
+    font-weight: 600;
+    border-radius: 10%;
+    max-width:80%;
+    margin: 5em auto;
+    
+    padding: 0px 30px 30px 30px;
+    
+  }
+  
+  .submit {
+    margin-top: 10%;
+    margin-right: 5%;
+  }
+  .reset{
+    margin-top: 10%;
+  }
+  .search{
+    margin: 5px 50px 0px 200px;
+  }
+  
+  
+  .delete {
+  
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .update {
+  
+    background-color: yellow;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 350px;
+  
+  }
+  
+  .bg-1 { 
+    background-color: #26CDD1;
+    color: #182523;
+   
+
+    
+  }
+  .button1{
+    background-color: #2F4FAA;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    width: 40%;
+    height: 35%;
+    margin-top: 10%;
+    margin-right: 50px;
+    margin-left: 300px;
+    opacity: 0.8;
+  }
+  .form1 {
+    background-color: #cedbdb;
+    color: rgb(15, 15, 15);
+    font-weight: 600;
+    max-width:60%;
+    margin: 5em auto;
+    opacity: 0.8;
+    padding: 30px 30px 60px 50px;
+    border-radius: 10px;
+    
+  }
+  .GetDoctor{
+    background-color: #2F4FAA;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    width: 55%;
+    height: 35%;
+    margin-top: 10%;
+    margin-right: 50px;
+    margin-left: 300px;
+    opacity: 0.8;
+    
+  }
+  
+  .table-in {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .th-in, .td-in {
+    padding: 8px;
+    padding-left: 20px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .tr-in:hover {background-color: #6176af;}
+  
+  .delete {
+  
+    background-color: #E53D3D;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .update1 {
+  
+    background-color: #26CDD1;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  
+  }
